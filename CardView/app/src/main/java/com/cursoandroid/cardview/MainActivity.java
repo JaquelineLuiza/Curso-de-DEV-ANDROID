@@ -1,4 +1,4 @@
-package com.cursoandroid.recyclerview;
+package com.cursoandroid.cardview;
 
 import androidx.appcompat.app.AppCompatActivity;
 
